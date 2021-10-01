@@ -1,6 +1,6 @@
 # free_conf
 
-A new Flutter project.
+My first Flutter app where you can reserve conference room. Base on my company rooms. Works with Firebase.
 
 ## Getting Started
 
