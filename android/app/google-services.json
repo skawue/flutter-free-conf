@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "597385593362",
+    "project_id": "free-conf",
+    "storage_bucket": "free-conf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597385593362:android:c1bcbe50d42b0c24058ecb",
+        "android_client_info": {
+          "package_name": "skw.usability.freeConf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597385593362-eflc28o4vf6nfrm4ftok6d9770ooo4er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB3P_ARFwbgbBT-IlfP69U0i8Wc6lwcg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597385593362-eflc28o4vf6nfrm4ftok6d9770ooo4er.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597385593362-bnf17m7eijkqefsls7ieooklsibgffu2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "skw.usability.freeConf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
